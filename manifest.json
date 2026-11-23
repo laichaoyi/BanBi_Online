@@ -1,0 +1,1 @@
+{"name": "Bắn Bi online", "short_name": "Bắn Bi", "lang": "vi", "start_url": "./", "display": "standalone", "theme_color": "#285b48", "background_color": "#f6f1e6", "icons": [{"src": "./marbles.png", "sizes": "512x512", "type": "image/png", "purpose": "any"}], "scope": "./"}

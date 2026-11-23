@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="120" height="120" viewBox="0 0 120 120">
+ <g fill="none" stroke-linejoin="miter"><rect x="3" y="3" width="114" height="114" stroke="#593f27" stroke-width="3"/><rect x="7" y="7" width="106" height="106" stroke="#a56a3a" stroke-width="2"/><rect x="13" y="13" width="94" height="94" stroke="#ab7a41" stroke-width="1.3"/>
+ <g id="k" stroke="#315142" stroke-width="2.6"><path d="M3 30H11V19H21V9H31V3H3zM7 26V7H26V13H17V23H7M3 13H13V3M16 32V24H24V16H32"/><path d="M27 7l4 4-4 4-4-4z" fill="#bd8243" stroke="#77412b" stroke-width="1"/></g>
+ <use href="#k" transform="translate(120 0) scale(-1 1)"/><use href="#k" transform="translate(0 120) scale(1 -1)"/><use href="#k" transform="translate(120 120) scale(-1 -1)"/></g>
+</svg>
