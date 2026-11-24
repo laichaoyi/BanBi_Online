@@ -8,8 +8,7 @@ Bắn Bi Online là dự án game do **Andy N Le** phát triển, lấy cảm h�
 
 Giao diện mang phong cách Việt Nam thập niên 1950 với tranh minh họa dân gian, nền giấy cổ, sân cát, bóng cây dừa, tiếng sóng biển và âm nhạc thư giãn.
 
-[**Chơi game trên GitHub Pages**]([https://laichaoyi.github.io/BanBi_Online](https://banbi-online.onrender.com)/)
-
+[**Chơi game trên GitHub Pages**](https://banbi-online.onrender.com/)
 ## Các chế độ chơi
 
 | Chế độ | Cách chơi |
